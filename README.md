@@ -1,10 +1,13 @@
 <div align="center"> 
   
-# Python - Semana 4 - Bootcamp Análise de Dados SoulCode Academy 
+# Python - Semana 5 - Bootcamp Análise de Dados SoulCode Academy 
 
-<div align="center"> 
-  
-## Introdução sobre Fundamentos de Python e exercícios resolvidos executando os códigos nos notebooks do Google Colab.
+ <div align="left"> 
+
+## * Iniciando a criação de banco de dados MySQL no Google Cloud SQL
+## * Comandos para consulta banco de dados MySQL no Google Cloud SQL
+## * Criando, populando um novo banco de dados e fazendo uso dos principais comandos para consulta.
+
 
  <div align="center"> 
   
