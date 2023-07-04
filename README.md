@@ -4,8 +4,6 @@
 
  <div align="left"> 
 
-## * Iniciando a criação de banco de dados MySQL no Google Cloud SQL
-## * Comandos para consulta banco de dados MySQL no Google Cloud SQL
 ## * Criando, populando um novo banco de dados e fazendo uso dos principais comandos para consulta.
 
 
