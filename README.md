@@ -1,4 +1,13 @@
-# Banco-de-Dados-MySQL-no-Google-Cloud-SQL---Bootcamp-Soulcode-Academy
-Iniciando a criação de banco de dados MySQL no Google Cloud SQL
+<div align="center"> 
+  
+# Python - Semana 4 - Bootcamp Análise de Dados SoulCode Academy 
 
-![image](https://github.com/IsabelCBarros/Banco-de-Dados-MySQL-no-Google-Cloud-SQL---Bootcamp-Soulcode-Academy/assets/100105009/90f96c86-93bc-4774-903d-0b8a3e23a678)
+<div align="center"> 
+  
+## Introdução sobre Fundamentos de Python e exercícios resolvidos executando os códigos nos notebooks do Google Colab.
+
+ <div align="center"> 
+  
+![image](https://github.com/IsabelCBarros/Python---Bootcamp---Analise-de-Dados---SoulCode/assets/100105009/e3660cde-fb2d-4615-8f5f-0f7daa192e55)
+
+
