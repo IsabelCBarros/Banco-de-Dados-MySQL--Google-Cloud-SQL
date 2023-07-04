@@ -2,6 +2,7 @@
   
 # Python - Semana 5 - Bootcamp Análise de Dados SoulCode Academy 
 
+
  <div align="center"> 
 
 ##  Criando, populando um banco de dados e fazendo uso dos principais comandos para consulta.
