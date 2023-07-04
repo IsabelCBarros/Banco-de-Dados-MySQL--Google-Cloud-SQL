@@ -4,7 +4,7 @@
 
  <div align="left"> 
 
-## * Criando, populando um novo banco de dados e fazendo uso dos principais comandos para consulta.
+##  Criando, populando um banco de dados e fazendo uso dos principais comandos para consulta.
 
 
  <div align="center"> 
