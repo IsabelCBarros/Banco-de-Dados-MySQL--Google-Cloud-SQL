@@ -35,7 +35,7 @@ Ex. Se você é do setor financeiro em uma empresa você terá que saber o que �
 ## MER (Modelo Entidade Relacionamento):
 É no MER que nós iremos identificar essas entidades, atributos e relacionamentos. Ex. O relacionamento entre a entidade PROFESSOR e a entidade ALUNO, por exemplo, é que o “professor ministra aula” para o aluno.
 
-## DER (diagrama entidade relacionamento):
+## DER (Diagrama Entidade Relacionamento):
 Definido as nossas entidades, características e relacionamentos temos que colocá-los em um diagrama simples de ser compreendido.
 
 Há 8 etapas para Modelagem de Dados que podem ser vistas no site: https://www.hashtagtreinamentos.com/oito-etapas-para-modelagem-de-dados-sql
